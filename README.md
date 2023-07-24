@@ -11,3 +11,5 @@ Input bild in den `input` Ordner legen und zu `image.png` umbenennen
 
 Dann wieder die CMD im hauptordner öffnen und mit Python ausführen 
 `python3 pixelspacer.py`
+
+Das output Bild liegt dann im output ordner
